@@ -1,0 +1,40 @@
+.main-header {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    background-color:rgba(245, 245, 245, 0.653);
+
+}
+
+ul {
+    padding: 0;
+
+}
+
+ li, a {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    padding: .5em 0;
+    margin: .5em 0;
+    background-color:rgb(193, 196, 199);
+}
+
+.name {
+    width: auto;
+    margin: 0 auto;
+    font-size: 1.9rem;
+    padding: 1rem 0;
+    text-align: center;
+    
+}
+
+div{
+    min-height: 100vh;
+    margin-bottom: 2rem;
+    border-bottom: 1px dotted grey;
+}
+img {
+    width: 100%;
+    text-align: center;
+}
